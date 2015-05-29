@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\MathForDevelopers\04. CalculateHypotenuse\bin\Debug\_0_.CalculateHypotenuse.exe.config
+D:\code\SoftUni\HomeWorks\MathForDevelopers\04. CalculateHypotenuse\bin\Debug\_0_.CalculateHypotenuse.exe
+D:\code\SoftUni\HomeWorks\MathForDevelopers\04. CalculateHypotenuse\bin\Debug\_0_.CalculateHypotenuse.pdb
+D:\code\SoftUni\HomeWorks\MathForDevelopers\04. CalculateHypotenuse\obj\Debug\_0_.CalculateHypotenuse.exe
+D:\code\SoftUni\HomeWorks\MathForDevelopers\04. CalculateHypotenuse\obj\Debug\_0_.CalculateHypotenuse.pdb

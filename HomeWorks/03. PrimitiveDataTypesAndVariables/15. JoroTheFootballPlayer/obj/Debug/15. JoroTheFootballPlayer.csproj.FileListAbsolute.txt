@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\15. JoroTheFootballPlayer\bin\Debug\_15.JoroTheFootballPlayer.exe.config
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\15. JoroTheFootballPlayer\bin\Debug\_15.JoroTheFootballPlayer.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\15. JoroTheFootballPlayer\bin\Debug\_15.JoroTheFootballPlayer.pdb
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\15. JoroTheFootballPlayer\obj\Debug\15. JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\15. JoroTheFootballPlayer\obj\Debug\_15.JoroTheFootballPlayer.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\15. JoroTheFootballPlayer\obj\Debug\_15.JoroTheFootballPlayer.pdb

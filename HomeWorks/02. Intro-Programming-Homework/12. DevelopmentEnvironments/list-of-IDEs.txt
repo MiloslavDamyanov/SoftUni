@@ -1,0 +1,33 @@
+1.NetBeans IDE is an open-source integrated development environment. NetBeans IDE supports development of all Java application types 
+(Java SE (including JavaFX), Java ME, web, EJB and mobile applications) out of the box. 
+Among other features are an Ant-based project system, Maven support, refactorings, version control 
+(supporting CVS, Subversion, Git, Mercurial and Clearcase).
+
+2. Android Studio is an integrated development environment (IDE) for developing on the Android platform. Android Studio is designed specifically 
+for Android development.It is available for download on Windows, Mac OS X and Linux, and replaced Eclipse Android Development Tools (ADT) 
+as Google's primary IDE for native Android application development.
+
+3. Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible 
+plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. 
+By means of various plug-ins, Eclipse may also be used to develop applications in other programming 
+languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Lua, Natural, Perl, PHP, Prolog, Python, R, 
+Ruby(including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. 
+It can also be used to develop packages for the software Mathematica. 
+Development environments include the Eclipse Java development tools (JDT) for Java and Scala, 
+Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+4. Visual Studio is an integrated development environment (IDE) from Microsoft.
+Visual Studio includes a code editor supporting IntelliSense (the code completion component) 
+as well as code refactoring. The integrated debugger works both as a source-level 
+debugger and a machine-level debugger. Other built-in tools include a forms designer 
+for building GUI applications, web designer, class designer, and database schema designer. 
+It accepts plug-ins that enhance the functionality at almost every level—including 
+adding support for source-control systems (like Subversion) and adding new 
+toolsets like editors and visual designers for domain-specific languages or toolsets for other 
+aspects of thesoftware development lifecycle (like the Team Foundation Server client: Team Explorer)
+
+5. MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows.
+Its primary focus is development of projects that use Mono and .NET frameworks. 
+MonoDevelop integrates features similar to those of NetBeansand Microsoft Visual Studio, such as 
+automatic code completion, source control, a graphical user interface (GUI) and Web designer. 
+MonoDevelop integrates a Gtk# GUI designer called Stetic.[7] It supports Boo, C, C++, C#, CIL, D, F#, Java,Oxygene, Python, Vala, and Visual Basic.NET.

@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\17. Sunglasses\bin\Debug\_17.Sunglasses.exe.config
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\17. Sunglasses\bin\Debug\_17.Sunglasses.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\17. Sunglasses\bin\Debug\_17.Sunglasses.pdb
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\17. Sunglasses\obj\Debug\17. Sunglasses.csprojResolveAssemblyReference.cache

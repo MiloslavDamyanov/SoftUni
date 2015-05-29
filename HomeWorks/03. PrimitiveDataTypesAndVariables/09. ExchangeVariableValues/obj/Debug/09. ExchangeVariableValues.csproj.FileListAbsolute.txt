@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.exe.config
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.pdb
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\09. ExchangeVariableValues\obj\Debug\_09.ExchangeVariableValues.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\09. ExchangeVariableValues\obj\Debug\_09.ExchangeVariableValues.pdb

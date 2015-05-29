@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\13. WorkHours\bin\Debug\_13.WorkHours.exe.config
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\13. WorkHours\bin\Debug\_13.WorkHours.exe
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\13. WorkHours\bin\Debug\_13.WorkHours.pdb
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\13. WorkHours\obj\Debug\_13.WorkHours.exe
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\13. WorkHours\obj\Debug\_13.WorkHours.pdb

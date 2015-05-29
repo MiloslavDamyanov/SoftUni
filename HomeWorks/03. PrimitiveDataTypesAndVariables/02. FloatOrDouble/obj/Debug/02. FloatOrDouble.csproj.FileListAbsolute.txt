@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe.config
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.pdb
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.pdb

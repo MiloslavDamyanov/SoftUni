@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\16. HalfSum\bin\Debug\_16.HalfSum.exe.config
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\16. HalfSum\bin\Debug\_16.HalfSum.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\16. HalfSum\bin\Debug\_16.HalfSum.pdb
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\16. HalfSum\obj\Debug\16. HalfSum.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\16. HalfSum\obj\Debug\_16.HalfSum.exe
+D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\16. HalfSum\obj\Debug\_16.HalfSum.pdb

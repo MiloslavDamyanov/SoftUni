@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\08. NumsFrom1ToN\bin\Debug\_08.NumsFrom1ToN.exe.config
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\08. NumsFrom1ToN\bin\Debug\_08.NumsFrom1ToN.exe
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\08. NumsFrom1ToN\bin\Debug\_08.NumsFrom1ToN.pdb
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\08. NumsFrom1ToN\obj\Debug\08. NumsFrom1ToN.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\08. NumsFrom1ToN\obj\Debug\_08.NumsFrom1ToN.exe
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\08. NumsFrom1ToN\obj\Debug\_08.NumsFrom1ToN.pdb

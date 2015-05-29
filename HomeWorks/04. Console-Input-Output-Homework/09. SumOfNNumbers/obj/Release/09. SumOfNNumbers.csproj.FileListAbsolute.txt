@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\09. SumOfNNumbers\bin\Release\_09.SumOfNNumbers.exe.config
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\09. SumOfNNumbers\bin\Release\_09.SumOfNNumbers.exe
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\09. SumOfNNumbers\bin\Release\_09.SumOfNNumbers.pdb
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\09. SumOfNNumbers\obj\Release\_09.SumOfNNumbers.exe
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\09. SumOfNNumbers\obj\Release\_09.SumOfNNumbers.pdb

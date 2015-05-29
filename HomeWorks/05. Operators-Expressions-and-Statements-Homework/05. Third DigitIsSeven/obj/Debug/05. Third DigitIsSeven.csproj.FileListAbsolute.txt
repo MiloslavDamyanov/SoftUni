@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\05. Third DigitIsSeven\bin\Debug\_05.Third_DigitIsSeven.exe.config
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\05. Third DigitIsSeven\bin\Debug\_05.Third_DigitIsSeven.exe
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\05. Third DigitIsSeven\bin\Debug\_05.Third_DigitIsSeven.pdb
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\05. Third DigitIsSeven\obj\Debug\_05.Third_DigitIsSeven.exe
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\05. Third DigitIsSeven\obj\Debug\_05.Third_DigitIsSeven.pdb

@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\07. PrintFirstLastName\bin\Debug\_07.PrintFirstLastName.exe.config
+D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\07. PrintFirstLastName\bin\Debug\_07.PrintFirstLastName.exe
+D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\07. PrintFirstLastName\bin\Debug\_07.PrintFirstLastName.pdb
+D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\07. PrintFirstLastName\obj\Debug\_07.PrintFirstLastName.exe
+D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\07. PrintFirstLastName\obj\Debug\_07.PrintFirstLastName.pdb

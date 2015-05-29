@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\bin\Release\_16.MagicStrings.exe.config
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\bin\Release\_16.MagicStrings.exe
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\bin\Release\_16.MagicStrings.pdb
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\obj\Release\_16.MagicStrings.exe
+D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\obj\Release\_16.MagicStrings.pdb

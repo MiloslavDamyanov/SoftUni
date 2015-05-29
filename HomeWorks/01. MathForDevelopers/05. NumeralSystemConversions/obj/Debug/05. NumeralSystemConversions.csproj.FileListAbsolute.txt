@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\MathForDevelopers\05. NumeralSystemConversions\bin\Debug\_05.NumeralSystemConversions.exe.config
+D:\code\SoftUni\HomeWorks\MathForDevelopers\05. NumeralSystemConversions\bin\Debug\_05.NumeralSystemConversions.exe
+D:\code\SoftUni\HomeWorks\MathForDevelopers\05. NumeralSystemConversions\bin\Debug\_05.NumeralSystemConversions.pdb
+D:\code\SoftUni\HomeWorks\MathForDevelopers\05. NumeralSystemConversions\obj\Debug\05. NumeralSystemConversions.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\MathForDevelopers\05. NumeralSystemConversions\obj\Debug\_05.NumeralSystemConversions.exe
+D:\code\SoftUni\HomeWorks\MathForDevelopers\05. NumeralSystemConversions\obj\Debug\_05.NumeralSystemConversions.pdb

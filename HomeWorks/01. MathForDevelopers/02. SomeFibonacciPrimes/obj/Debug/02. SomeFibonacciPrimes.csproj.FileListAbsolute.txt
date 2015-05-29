@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\MathForDevelopers\02. SomeFibonacciPrimes\bin\Debug\_02.SomeFibonacciPrimes.exe.config
+D:\code\SoftUni\HomeWorks\MathForDevelopers\02. SomeFibonacciPrimes\bin\Debug\_02.SomeFibonacciPrimes.exe
+D:\code\SoftUni\HomeWorks\MathForDevelopers\02. SomeFibonacciPrimes\bin\Debug\_02.SomeFibonacciPrimes.pdb
+D:\code\SoftUni\HomeWorks\MathForDevelopers\02. SomeFibonacciPrimes\obj\Debug\02. SomeFibonacciPrimes.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\MathForDevelopers\02. SomeFibonacciPrimes\obj\Debug\_02.SomeFibonacciPrimes.exe
+D:\code\SoftUni\HomeWorks\MathForDevelopers\02. SomeFibonacciPrimes\obj\Debug\_02.SomeFibonacciPrimes.pdb
