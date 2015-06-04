@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\bin\Debug\_16.MagicStrings.exe.config
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\bin\Debug\_16.MagicStrings.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\bin\Debug\_16.MagicStrings.pdb
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\obj\Debug\16. MagicStrings.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\obj\Debug\_16.MagicStrings.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\16. MagicStrings\obj\Debug\_16.MagicStrings.pdb

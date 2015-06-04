@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A33A30FE-2C29-4E0F-BC2D-4460C559BF1F}</ProjectGuid>
+    <ProjectGuid>{376F57A8-CA50-48AA-803F-93BB0895E937}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_16.MagicStrings</RootNamespace>
-    <AssemblyName>_16.MagicStrings</AssemblyName>
+    <RootNamespace>CatchTheBits</RootNamespace>
+    <AssemblyName>CatchTheBits</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MagicStrings.cs" />
+    <Compile Include="CatchTheBits.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
