@@ -1,0 +1,5 @@
+D:\code\SoftUni\JumpingSums\InfinityIndex\bin\Debug\InfinityIndex.exe.config
+D:\code\SoftUni\JumpingSums\InfinityIndex\bin\Debug\InfinityIndex.exe
+D:\code\SoftUni\JumpingSums\InfinityIndex\bin\Debug\InfinityIndex.pdb
+D:\code\SoftUni\JumpingSums\InfinityIndex\obj\Debug\InfinityIndex.exe
+D:\code\SoftUni\JumpingSums\InfinityIndex\obj\Debug\InfinityIndex.pdb

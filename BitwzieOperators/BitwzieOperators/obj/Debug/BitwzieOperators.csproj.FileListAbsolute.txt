@@ -1,0 +1,6 @@
+D:\code\SoftUni\BitwzieOperators\BitwzieOperators\bin\Debug\BitwzieOperators.exe.config
+D:\code\SoftUni\BitwzieOperators\BitwzieOperators\bin\Debug\BitwzieOperators.exe
+D:\code\SoftUni\BitwzieOperators\BitwzieOperators\bin\Debug\BitwzieOperators.pdb
+D:\code\SoftUni\BitwzieOperators\BitwzieOperators\obj\Debug\BitwzieOperators.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\BitwzieOperators\BitwzieOperators\obj\Debug\BitwzieOperators.exe
+D:\code\SoftUni\BitwzieOperators\BitwzieOperators\obj\Debug\BitwzieOperators.pdb

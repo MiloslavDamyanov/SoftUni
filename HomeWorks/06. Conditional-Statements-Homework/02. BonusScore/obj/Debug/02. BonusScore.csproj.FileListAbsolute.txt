@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\02. BonusScore\bin\Debug\_027.BonusScore.exe.config
+D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\02. BonusScore\bin\Debug\_027.BonusScore.exe
+D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\02. BonusScore\bin\Debug\_027.BonusScore.pdb
+D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\02. BonusScore\obj\Debug\02. BonusScore.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\02. BonusScore\obj\Debug\_027.BonusScore.exe
+D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\02. BonusScore\obj\Debug\_027.BonusScore.pdb

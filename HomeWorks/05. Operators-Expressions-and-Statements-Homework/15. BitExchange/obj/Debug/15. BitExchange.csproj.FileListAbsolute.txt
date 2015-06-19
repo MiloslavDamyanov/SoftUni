@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\15. BitExchange\bin\Debug\_15.BitExchange.exe.config
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\15. BitExchange\bin\Debug\_15.BitExchange.exe
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\15. BitExchange\bin\Debug\_15.BitExchange.pdb
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\15. BitExchange\obj\Debug\15. BitExchange.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\15. BitExchange\obj\Debug\_15.BitExchange.exe
+D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\15. BitExchange\obj\Debug\_15.BitExchange.pdb

@@ -1,0 +1,3 @@
+D:\code\SoftUni\JumpingSums\InfinityIndex\obj\Debug\GetIndex.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\JumpingSums\InfinityIndex\obj\Debug\InfinityIndex.exe
+D:\code\SoftUni\JumpingSums\InfinityIndex\obj\Debug\InfinityIndex.pdb
