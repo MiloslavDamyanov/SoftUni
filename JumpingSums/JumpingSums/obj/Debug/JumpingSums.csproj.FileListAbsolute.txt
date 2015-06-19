@@ -1,6 +1,0 @@
-D:\code\SoftUni\JumpingSums\JumpingSums\bin\Debug\JumpingSums.exe.config
-D:\code\SoftUni\JumpingSums\JumpingSums\bin\Debug\JumpingSums.exe
-D:\code\SoftUni\JumpingSums\JumpingSums\bin\Debug\JumpingSums.pdb
-D:\code\SoftUni\JumpingSums\JumpingSums\obj\Debug\JumpingSums.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\JumpingSums\JumpingSums\obj\Debug\JumpingSums.exe
-D:\code\SoftUni\JumpingSums\JumpingSums\obj\Debug\JumpingSums.pdb
