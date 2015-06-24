@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\20. ExamSchedule\bin\Debug\_20.ExamSchedule.exe.config
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\20. ExamSchedule\bin\Debug\_20.ExamSchedule.exe
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\20. ExamSchedule\bin\Debug\_20.ExamSchedule.pdb
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\20. ExamSchedule\obj\Debug\_20.ExamSchedule.exe
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\20. ExamSchedule\obj\Debug\_20.ExamSchedule.pdb
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\20. ExamSchedule\obj\Debug\20. ExamSchedule.csprojResolveAssemblyReference.cache

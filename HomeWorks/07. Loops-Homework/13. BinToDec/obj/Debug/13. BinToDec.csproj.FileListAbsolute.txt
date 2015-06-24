@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\13. BinToDec\bin\Debug\_13.BinToDec.exe.config
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\13. BinToDec\bin\Debug\_13.BinToDec.exe
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\13. BinToDec\bin\Debug\_13.BinToDec.pdb
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\13. BinToDec\obj\Debug\13. BinToDec.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\13. BinToDec\obj\Debug\_13.BinToDec.exe
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\13. BinToDec\obj\Debug\_13.BinToDec.pdb

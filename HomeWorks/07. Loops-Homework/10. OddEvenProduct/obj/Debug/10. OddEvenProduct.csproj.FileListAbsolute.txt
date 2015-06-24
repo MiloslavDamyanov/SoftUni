@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\10. OddEvenProduct\bin\Debug\_10.OddEvenProduct.exe.config
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\10. OddEvenProduct\bin\Debug\_10.OddEvenProduct.exe
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\10. OddEvenProduct\bin\Debug\_10.OddEvenProduct.pdb
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\10. OddEvenProduct\obj\Debug\10. OddEvenProduct.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\10. OddEvenProduct\obj\Debug\_10.OddEvenProduct.exe
+D:\code\SoftUni\HomeWorks\07. Loops-Homework\10. OddEvenProduct\obj\Debug\_10.OddEvenProduct.pdb
