@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe.config
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\02. PrimeChecker\bin\Debug\_02.PrimeChecker.pdb
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\02. PrimeChecker\obj\Debug\_02.PrimeChecker.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\02. PrimeChecker\obj\Debug\_02.PrimeChecker.pdb

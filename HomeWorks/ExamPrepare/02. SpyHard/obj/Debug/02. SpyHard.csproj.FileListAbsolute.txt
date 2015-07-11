@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. SpyHard\bin\Debug\_02.SpyHard.exe.config
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. SpyHard\bin\Debug\_02.SpyHard.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. SpyHard\bin\Debug\_02.SpyHard.pdb
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. SpyHard\obj\Debug\02. SpyHard.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. SpyHard\obj\Debug\_02.SpyHard.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. SpyHard\obj\Debug\_02.SpyHard.pdb

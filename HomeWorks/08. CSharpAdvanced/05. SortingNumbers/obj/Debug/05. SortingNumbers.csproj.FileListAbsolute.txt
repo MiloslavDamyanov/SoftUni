@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe.config
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\05. SortingNumbers\bin\Debug\_05.SortingNumbers.pdb
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\05. SortingNumbers\obj\Debug\_05.SortingNumbers.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\05. SortingNumbers\obj\Debug\_05.SortingNumbers.pdb

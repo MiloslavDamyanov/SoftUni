@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. Petar'sGame\bin\Debug\_02.Petar_sGame.exe.config
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. Petar'sGame\bin\Debug\_02.Petar_sGame.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. Petar'sGame\bin\Debug\_02.Petar_sGame.pdb
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. Petar'sGame\obj\Debug\02. Petar'sGame.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. Petar'sGame\obj\Debug\_02.Petar_sGame.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. Petar'sGame\obj\Debug\_02.Petar_sGame.pdb

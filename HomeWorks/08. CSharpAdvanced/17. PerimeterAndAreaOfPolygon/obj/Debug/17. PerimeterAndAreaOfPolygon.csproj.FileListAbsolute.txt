@@ -1,0 +1,9 @@
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\17. PerimeterAndAreaOfPolygon\bin\Debug\_17.PerimeterAndAreaOfPolygon.exe.config
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\17. PerimeterAndAreaOfPolygon\bin\Debug\_17.PerimeterAndAreaOfPolygon.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\17. PerimeterAndAreaOfPolygon\bin\Debug\_17.PerimeterAndAreaOfPolygon.pdb
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\17. PerimeterAndAreaOfPolygon\obj\Debug\17. PerimeterAndAreaOfPolygon.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\17. PerimeterAndAreaOfPolygon\obj\Debug\_17.PerimeterAndAreaOfPolygon.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\17. PerimeterAndAreaOfPolygon\obj\Debug\_17.PerimeterAndAreaOfPolygon.pdb
+C:\1 NTFS_000\code\SoftUni\HomeWorks\08. CSharpAdvanced\17. PerimeterAndAreaOfPolygon\bin\Debug\_17.PerimeterAndAreaOfPolygon.exe.config
+C:\1 NTFS_000\code\SoftUni\HomeWorks\08. CSharpAdvanced\17. PerimeterAndAreaOfPolygon\obj\Debug\_17.PerimeterAndAreaOfPolygon.exe
+C:\1 NTFS_000\code\SoftUni\HomeWorks\08. CSharpAdvanced\17. PerimeterAndAreaOfPolygon\obj\Debug\_17.PerimeterAndAreaOfPolygon.pdb

@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\14. LongestWordInAText\bin\Debug\_14.LongestWordInAText.exe.config
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\14. LongestWordInAText\bin\Debug\_14.LongestWordInAText.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\14. LongestWordInAText\bin\Debug\_14.LongestWordInAText.pdb
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\14. LongestWordInAText\obj\Debug\14. LongestWordInAText.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\14. LongestWordInAText\obj\Debug\_14.LongestWordInAText.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\14. LongestWordInAText\obj\Debug\_14.LongestWordInAText.pdb

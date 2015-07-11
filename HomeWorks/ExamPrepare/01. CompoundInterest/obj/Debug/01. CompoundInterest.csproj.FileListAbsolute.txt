@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\ExamPrepare\01. CompoundInterest\bin\Debug\_01.CompoundInterest.exe.config
+D:\code\SoftUni\HomeWorks\ExamPrepare\01. CompoundInterest\bin\Debug\_01.CompoundInterest.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\01. CompoundInterest\bin\Debug\_01.CompoundInterest.pdb
+D:\code\SoftUni\HomeWorks\ExamPrepare\01. CompoundInterest\obj\Debug\01. CompoundInterest.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\ExamPrepare\01. CompoundInterest\obj\Debug\_01.CompoundInterest.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\01. CompoundInterest\obj\Debug\_01.CompoundInterest.pdb

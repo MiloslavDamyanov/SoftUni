@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\ExamPrepare\HorizontalFlip\bin\Debug\HorizontalFlip.exe.config
+D:\code\SoftUni\HomeWorks\ExamPrepare\HorizontalFlip\bin\Debug\HorizontalFlip.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\HorizontalFlip\bin\Debug\HorizontalFlip.pdb
+D:\code\SoftUni\HomeWorks\ExamPrepare\HorizontalFlip\obj\Debug\HorizontalFlip.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\HorizontalFlip\obj\Debug\HorizontalFlip.pdb

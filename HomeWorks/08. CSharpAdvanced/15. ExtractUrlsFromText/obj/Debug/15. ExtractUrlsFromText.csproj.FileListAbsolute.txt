@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\15. ExtractUrlsFromText\bin\Debug\_15.ExtractUrlsFromText.exe.config
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\15. ExtractUrlsFromText\bin\Debug\_15.ExtractUrlsFromText.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\15. ExtractUrlsFromText\bin\Debug\_15.ExtractUrlsFromText.pdb
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\15. ExtractUrlsFromText\obj\Debug\_15.ExtractUrlsFromText.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\15. ExtractUrlsFromText\obj\Debug\_15.ExtractUrlsFromText.pdb

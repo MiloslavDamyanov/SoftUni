@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\12. CountOfNames\bin\Debug\_12.CountOfNames.exe.config
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\12. CountOfNames\bin\Debug\_12.CountOfNames.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\12. CountOfNames\bin\Debug\_12.CountOfNames.pdb
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\12. CountOfNames\obj\Debug\_12.CountOfNames.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\12. CountOfNames\obj\Debug\_12.CountOfNames.pdb

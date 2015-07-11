@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\10. JoinLists\bin\Debug\_10.JoinLists.exe.config
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\10. JoinLists\bin\Debug\_10.JoinLists.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\10. JoinLists\bin\Debug\_10.JoinLists.pdb
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\10. JoinLists\obj\Debug\_10.JoinLists.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\10. JoinLists\obj\Debug\_10.JoinLists.pdb

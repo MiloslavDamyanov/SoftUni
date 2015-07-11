@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. BasketBattle\bin\Debug\_02.BasketBattle.exe.config
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. BasketBattle\bin\Debug\_02.BasketBattle.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. BasketBattle\bin\Debug\_02.BasketBattle.pdb
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. BasketBattle\obj\Debug\02. BasketBattle.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. BasketBattle\obj\Debug\_02.BasketBattle.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\02. BasketBattle\obj\Debug\_02.BasketBattle.pdb

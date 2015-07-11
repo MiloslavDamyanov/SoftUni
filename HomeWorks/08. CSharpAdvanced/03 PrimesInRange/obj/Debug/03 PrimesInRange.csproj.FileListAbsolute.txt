@@ -1,0 +1,5 @@
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\03 PrimesInRange\bin\Debug\03 PrimesInRange.exe.config
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\03 PrimesInRange\bin\Debug\03 PrimesInRange.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\03 PrimesInRange\bin\Debug\03 PrimesInRange.pdb
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\03 PrimesInRange\obj\Debug\03 PrimesInRange.exe
+D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\03 PrimesInRange\obj\Debug\03 PrimesInRange.pdb

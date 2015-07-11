@@ -1,0 +1,6 @@
+D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\bin\Debug\ExamPrepare.exe.config
+D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\bin\Debug\ExamPrepare.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\bin\Debug\ExamPrepare.pdb
+D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\obj\Debug\Budget.csprojResolveAssemblyReference.cache
+D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\obj\Debug\ExamPrepare.exe
+D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\obj\Debug\ExamPrepare.pdb
