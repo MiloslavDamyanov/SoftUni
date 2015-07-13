@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TravellerBob\bin\Debug\_01.TravellerBob.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TravellerBob\bin\Debug\_01.TravellerBob.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TravellerBob\bin\Debug\_01.TravellerBob.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TravellerBob\obj\Debug\01. TravellerBob.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TravellerBob\obj\Debug\_01.TravellerBob.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TravellerBob\obj\Debug\_01.TravellerBob.pdb

@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\05. PaintBall\bin\Debug\_05.PaintBall.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\05. PaintBall\bin\Debug\_05.PaintBall.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\05. PaintBall\bin\Debug\_05.PaintBall.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\05. PaintBall\obj\Debug\05. PaintBall.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\ExamPrepare\05. PaintBall\obj\Debug\_05.PaintBall.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\05. PaintBall\obj\Debug\_05.PaintBall.pdb

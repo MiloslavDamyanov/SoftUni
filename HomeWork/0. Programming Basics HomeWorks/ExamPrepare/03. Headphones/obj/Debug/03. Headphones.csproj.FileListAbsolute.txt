@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Headphones\bin\Debug\_03.Headphones.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Headphones\bin\Debug\_03.Headphones.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Headphones\bin\Debug\_03.Headphones.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Headphones\obj\Debug\03. Headphones.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Headphones\obj\Debug\_03.Headphones.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Headphones\obj\Debug\_03.Headphones.pdb

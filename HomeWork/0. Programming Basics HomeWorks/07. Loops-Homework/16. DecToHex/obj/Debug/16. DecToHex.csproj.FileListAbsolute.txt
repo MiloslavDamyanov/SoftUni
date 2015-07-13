@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\16. DecToHex\bin\Debug\_16.DecToHex.exe.config
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\16. DecToHex\obj\Debug\16. DecToHex.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\16. DecToHex\bin\Debug\_16.DecToHex.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\16. DecToHex\bin\Debug\_16.DecToHex.pdb
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\16. DecToHex\obj\Debug\_16.DecToHex.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\16. DecToHex\obj\Debug\_16.DecToHex.pdb

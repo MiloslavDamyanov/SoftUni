@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Sunlight\bin\Debug\_03.Sunlight.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Sunlight\bin\Debug\_03.Sunlight.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Sunlight\bin\Debug\_03.Sunlight.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Sunlight\obj\Debug\03. Sunlight.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Sunlight\obj\Debug\_03.Sunlight.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. Sunlight\obj\Debug\_03.Sunlight.pdb

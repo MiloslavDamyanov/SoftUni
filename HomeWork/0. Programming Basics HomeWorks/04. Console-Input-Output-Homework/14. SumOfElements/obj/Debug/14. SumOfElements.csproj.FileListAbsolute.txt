@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\14. SumOfElements\bin\Debug\_14.SumOfElements.exe.config
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\14. SumOfElements\bin\Debug\_14.SumOfElements.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\14. SumOfElements\bin\Debug\_14.SumOfElements.pdb
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\14. SumOfElements\obj\Debug\14. SumOfElements.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\14. SumOfElements\obj\Debug\_14.SumOfElements.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\14. SumOfElements\obj\Debug\_14.SumOfElements.pdb

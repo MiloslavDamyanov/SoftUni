@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\10. FibonacciNumbers\bin\Release\_10.FibonacciNumbers.exe.config
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\10. FibonacciNumbers\bin\Release\_10.FibonacciNumbers.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\10. FibonacciNumbers\bin\Release\_10.FibonacciNumbers.pdb
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\10. FibonacciNumbers\obj\Release\_10.FibonacciNumbers.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\10. FibonacciNumbers\obj\Release\_10.FibonacciNumbers.pdb

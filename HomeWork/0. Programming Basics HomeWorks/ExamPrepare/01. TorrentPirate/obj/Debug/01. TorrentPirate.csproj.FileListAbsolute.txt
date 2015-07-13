@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TorrentPirate\bin\Debug\_01.TorrentPirate.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TorrentPirate\bin\Debug\_01.TorrentPirate.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TorrentPirate\bin\Debug\_01.TorrentPirate.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TorrentPirate\obj\Debug\_01.TorrentPirate.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TorrentPirate\obj\Debug\_01.TorrentPirate.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. TorrentPirate\obj\Debug\01. TorrentPirate.csprojResolveAssemblyReference.cache

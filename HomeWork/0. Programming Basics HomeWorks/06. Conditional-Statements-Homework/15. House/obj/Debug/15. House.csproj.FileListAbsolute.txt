@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\15. House\bin\Debug\_15.House.exe.config
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\15. House\bin\Debug\_15.House.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\15. House\bin\Debug\_15.House.pdb
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\15. House\obj\Debug\_15.House.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\15. House\obj\Debug\_15.House.pdb
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\15. House\obj\Debug\15. House.csprojResolveAssemblyReference.cache

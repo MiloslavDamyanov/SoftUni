@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\06. StringAndObjects\bin\Debug\_06.StringAndObjects.exe.config
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\06. StringAndObjects\bin\Debug\_06.StringAndObjects.exe
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\06. StringAndObjects\bin\Debug\_06.StringAndObjects.pdb
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\06. StringAndObjects\obj\Debug\_06.StringAndObjects.exe
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\06. StringAndObjects\obj\Debug\_06.StringAndObjects.pdb

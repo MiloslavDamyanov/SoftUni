@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe.config
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\11. CountOfLetters\bin\Debug\_11.CountOfLetters.pdb
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\11. CountOfLetters\obj\Debug\_11.CountOfLetters.exe
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\11. CountOfLetters\obj\Debug\_11.CountOfLetters.pdb

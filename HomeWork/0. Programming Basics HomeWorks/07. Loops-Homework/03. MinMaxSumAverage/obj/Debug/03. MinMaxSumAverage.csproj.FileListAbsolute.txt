@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\03. MinMaxSumAverage\bin\Debug\_03.MinMaxSumAverage.exe.config
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\03. MinMaxSumAverage\bin\Debug\_03.MinMaxSumAverage.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\03. MinMaxSumAverage\bin\Debug\_03.MinMaxSumAverage.pdb
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\03. MinMaxSumAverage\obj\Debug\_03.MinMaxSumAverage.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\03. MinMaxSumAverage\obj\Debug\_03.MinMaxSumAverage.pdb

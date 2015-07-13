@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\21. BitShifting\bin\Debug\_21.BitShifting.exe.config
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\21. BitShifting\bin\Debug\_21.BitShifting.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\21. BitShifting\bin\Debug\_21.BitShifting.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\21. BitShifting\obj\Debug\21. BitShifting.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\21. BitShifting\obj\Debug\_21.BitShifting.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\21. BitShifting\obj\Debug\_21.BitShifting.pdb

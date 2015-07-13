@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\13. Triangle\bin\Debug\_13.Triangle.exe.config
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\13. Triangle\bin\Debug\_13.Triangle.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\13. Triangle\bin\Debug\_13.Triangle.pdb
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\13. Triangle\obj\Debug\13. Triangle.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\13. Triangle\obj\Debug\_13.Triangle.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\13. Triangle\obj\Debug\_13.Triangle.pdb

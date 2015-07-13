@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\04. Encrypt the Messages\bin\Debug\_04.Encrypt_the_Messages.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\04. Encrypt the Messages\bin\Debug\_04.Encrypt_the_Messages.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\04. Encrypt the Messages\bin\Debug\_04.Encrypt_the_Messages.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\04. Encrypt the Messages\obj\Debug\04. EncryptTheMessages.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\ExamPrepare\04. Encrypt the Messages\obj\Debug\_04.Encrypt_the_Messages.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\04. Encrypt the Messages\obj\Debug\_04.Encrypt_the_Messages.pdb

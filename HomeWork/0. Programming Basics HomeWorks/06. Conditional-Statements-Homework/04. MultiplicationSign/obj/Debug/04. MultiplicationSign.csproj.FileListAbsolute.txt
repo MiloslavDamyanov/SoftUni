@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe.config
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.pdb
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.pdb

@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\17. BitKiller\bin\Debug\_17.BitKiller.exe.config
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\17. BitKiller\bin\Debug\_17.BitKiller.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\17. BitKiller\bin\Debug\_17.BitKiller.pdb
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\17. BitKiller\obj\Debug\17. BitKiller.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\17. BitKiller\obj\Debug\_17.BitKiller.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\17. BitKiller\obj\Debug\_17.BitKiller.pdb

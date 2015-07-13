@@ -1,8 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\bin\Debug\ExamPrepare.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\bin\Debug\ExamPrepare.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\bin\Debug\ExamPrepare.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\obj\Debug\ExamPrepare.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\obj\Debug\ExamPrepare.pdb
-C:\1 NTFS_000\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\bin\Debug\ExamPrepare.exe.config
-C:\1 NTFS_000\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\obj\Debug\ExamPrepare.exe
-C:\1 NTFS_000\code\SoftUni\HomeWorks\ExamPrepare\ExamPrepare\obj\Debug\ExamPrepare.pdb

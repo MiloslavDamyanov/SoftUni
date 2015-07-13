@@ -1,9 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. ChessboardGame\bin\Debug\_02.ChessboardGame.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. ChessboardGame\bin\Debug\_02.ChessboardGame.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. ChessboardGame\bin\Debug\_02.ChessboardGame.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. ChessboardGame\obj\Debug\_02.ChessboardGame.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. ChessboardGame\obj\Debug\_02.ChessboardGame.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. ChessboardGame\obj\Debug\02. ChessboardGame.csprojResolveAssemblyReference.cache
-C:\1 NTFS_000\code\SoftUni\HomeWorks\ExamPrepare\02. ChessboardGame\bin\Debug\_02.ChessboardGame.exe.config
-C:\1 NTFS_000\code\SoftUni\HomeWorks\ExamPrepare\02. ChessboardGame\obj\Debug\_02.ChessboardGame.exe
-C:\1 NTFS_000\code\SoftUni\HomeWorks\ExamPrepare\02. ChessboardGame\obj\Debug\_02.ChessboardGame.pdb

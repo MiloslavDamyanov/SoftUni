@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\04. CalcPerimeterAndAreaOfRectangles\bin\Debug\_04.CalcPerimeterAndAreaOfRectangles.exe.config
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\04. CalcPerimeterAndAreaOfRectangles\bin\Debug\_04.CalcPerimeterAndAreaOfRectangles.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\04. CalcPerimeterAndAreaOfRectangles\bin\Debug\_04.CalcPerimeterAndAreaOfRectangles.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\04. CalcPerimeterAndAreaOfRectangles\obj\Debug\_04.CalcPerimeterAndAreaOfRectangles.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\04. CalcPerimeterAndAreaOfRectangles\obj\Debug\_04.CalcPerimeterAndAreaOfRectangles.pdb

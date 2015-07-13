@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.exe.config
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.pdb
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\03. CirclePerimeterAndArea\obj\Debug\_03.CirclePerimeterAndArea.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\03. CirclePerimeterAndArea\obj\Debug\_03.CirclePerimeterAndArea.pdb

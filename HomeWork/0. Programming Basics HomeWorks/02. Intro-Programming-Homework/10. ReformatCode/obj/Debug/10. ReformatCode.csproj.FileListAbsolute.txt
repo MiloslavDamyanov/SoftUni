@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\10. ReformatCode\bin\Debug\_10.ReformatCode.exe.config
-D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\10. ReformatCode\bin\Debug\_10.ReformatCode.exe
-D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\10. ReformatCode\bin\Debug\_10.ReformatCode.pdb
-D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\10. ReformatCode\obj\Debug\_10.ReformatCode.exe
-D:\code\SoftUni\HomeWorks\Intro-Programming-Homework\10. ReformatCode\obj\Debug\_10.ReformatCode.pdb

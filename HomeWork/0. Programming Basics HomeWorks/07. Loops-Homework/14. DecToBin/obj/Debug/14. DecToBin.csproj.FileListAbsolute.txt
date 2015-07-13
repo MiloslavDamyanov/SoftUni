@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\14. DecToBin\bin\Debug\_14.DecToBin.exe.config
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\14. DecToBin\bin\Debug\_14.DecToBin.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\14. DecToBin\bin\Debug\_14.DecToBin.pdb
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\14. DecToBin\obj\Debug\_14.DecToBin.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\14. DecToBin\obj\Debug\_14.DecToBin.pdb
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\14. DecToBin\obj\Debug\14. DecToBin.csprojResolveAssemblyReference.cache

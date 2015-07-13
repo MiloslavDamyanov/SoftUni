@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\18. OddEvenSum\bin\Debug\_18.OddEvenSum.exe.config
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\18. OddEvenSum\bin\Debug\_18.OddEvenSum.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\18. OddEvenSum\bin\Debug\_18.OddEvenSum.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\18. OddEvenSum\obj\Debug\18. OddEvenSum.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\18. OddEvenSum\obj\Debug\_18.OddEvenSum.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\18. OddEvenSum\obj\Debug\_18.OddEvenSum.pdb

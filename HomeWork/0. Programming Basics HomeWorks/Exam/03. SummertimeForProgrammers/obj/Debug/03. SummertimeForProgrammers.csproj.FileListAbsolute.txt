@@ -1,5 +1,0 @@
-C:\Users\Miloslav\Desktop\Exam\03. SummertimeForProgrammers\bin\Debug\_03.SummertimeForProgrammers.exe.config
-C:\Users\Miloslav\Desktop\Exam\03. SummertimeForProgrammers\bin\Debug\_03.SummertimeForProgrammers.exe
-C:\Users\Miloslav\Desktop\Exam\03. SummertimeForProgrammers\bin\Debug\_03.SummertimeForProgrammers.pdb
-C:\Users\Miloslav\Desktop\Exam\03. SummertimeForProgrammers\obj\Debug\_03.SummertimeForProgrammers.exe
-C:\Users\Miloslav\Desktop\Exam\03. SummertimeForProgrammers\obj\Debug\_03.SummertimeForProgrammers.pdb

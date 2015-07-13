@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\07. NumsWithNestedIfs\bin\Debug\_07.NumsWithNestedIfs.exe.config
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\07. NumsWithNestedIfs\bin\Debug\_07.NumsWithNestedIfs.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\07. NumsWithNestedIfs\bin\Debug\_07.NumsWithNestedIfs.pdb
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\07. NumsWithNestedIfs\obj\Debug\07. NumsWithNestedIfs.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\07. NumsWithNestedIfs\obj\Debug\_07.NumsWithNestedIfs.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\07. NumsWithNestedIfs\obj\Debug\_07.NumsWithNestedIfs.pdb

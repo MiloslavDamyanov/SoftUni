@@ -1,6 +1,0 @@
-C:\Users\Miloslav\Desktop\Exam\04. LightTorches\bin\Debug\_04.LightTorches.exe.config
-C:\Users\Miloslav\Desktop\Exam\04. LightTorches\bin\Debug\_04.LightTorches.exe
-C:\Users\Miloslav\Desktop\Exam\04. LightTorches\bin\Debug\_04.LightTorches.pdb
-C:\Users\Miloslav\Desktop\Exam\04. LightTorches\obj\Debug\_04.LightTorches.exe
-C:\Users\Miloslav\Desktop\Exam\04. LightTorches\obj\Debug\_04.LightTorches.pdb
-C:\Users\Miloslav\Desktop\Exam\04. LightTorches\obj\Debug\04. LightTorches.csprojResolveAssemblyReference.cache

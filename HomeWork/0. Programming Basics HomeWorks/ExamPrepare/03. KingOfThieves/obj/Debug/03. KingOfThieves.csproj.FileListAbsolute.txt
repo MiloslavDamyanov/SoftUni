@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. KingOfThieves\bin\Debug\_03.KingOfThieves.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. KingOfThieves\bin\Debug\_03.KingOfThieves.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. KingOfThieves\bin\Debug\_03.KingOfThieves.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. KingOfThieves\obj\Debug\03. KingOfThieves.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. KingOfThieves\obj\Debug\_03.KingOfThieves.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\03. KingOfThieves\obj\Debug\_03.KingOfThieves.pdb

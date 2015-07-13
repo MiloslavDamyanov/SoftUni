@@ -1,5 +1,0 @@
-C:\Users\Miloslav\Desktop\Exam\02. DetectiveBoev\bin\Debug\_02.DetectiveBoev.exe.config
-C:\Users\Miloslav\Desktop\Exam\02. DetectiveBoev\bin\Debug\_02.DetectiveBoev.exe
-C:\Users\Miloslav\Desktop\Exam\02. DetectiveBoev\bin\Debug\_02.DetectiveBoev.pdb
-C:\Users\Miloslav\Desktop\Exam\02. DetectiveBoev\obj\Debug\_02.DetectiveBoev.exe
-C:\Users\Miloslav\Desktop\Exam\02. DetectiveBoev\obj\Debug\_02.DetectiveBoev.pdb

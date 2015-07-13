@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. OddOrEvenCounter\bin\Debug\_02.OddOrEvenCounter.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. OddOrEvenCounter\bin\Debug\_02.OddOrEvenCounter.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. OddOrEvenCounter\bin\Debug\_02.OddOrEvenCounter.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. OddOrEvenCounter\obj\Debug\_02.OddOrEvenCounter.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. OddOrEvenCounter\obj\Debug\_02.OddOrEvenCounter.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\02. OddOrEvenCounter\obj\Debug\02. OddOrEvenCounter.csprojResolveAssemblyReference.cache

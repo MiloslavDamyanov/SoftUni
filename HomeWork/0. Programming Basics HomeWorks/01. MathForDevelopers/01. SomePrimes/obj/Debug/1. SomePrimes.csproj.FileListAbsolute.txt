@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\MathForDevelopers\01. SomePrimes\bin\Debug\_01.SomePrimes.exe.config
-D:\code\SoftUni\HomeWorks\MathForDevelopers\01. SomePrimes\bin\Debug\_01.SomePrimes.exe
-D:\code\SoftUni\HomeWorks\MathForDevelopers\01. SomePrimes\bin\Debug\_01.SomePrimes.pdb
-D:\code\SoftUni\HomeWorks\MathForDevelopers\01. SomePrimes\obj\Debug\1. SomePrimes.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\MathForDevelopers\01. SomePrimes\obj\Debug\_01.SomePrimes.exe
-D:\code\SoftUni\HomeWorks\MathForDevelopers\01. SomePrimes\obj\Debug\_01.SomePrimes.pdb

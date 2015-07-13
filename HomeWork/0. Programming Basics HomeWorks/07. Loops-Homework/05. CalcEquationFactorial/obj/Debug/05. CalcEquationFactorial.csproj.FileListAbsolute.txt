@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\05. CalcEquationFactorial\bin\Debug\_05.CalcEquationFactorial.exe.config
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\05. CalcEquationFactorial\bin\Debug\_05.CalcEquationFactorial.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\05. CalcEquationFactorial\bin\Debug\_05.CalcEquationFactorial.pdb
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\05. CalcEquationFactorial\obj\Debug\05. CalcEquationFactorial.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\05. CalcEquationFactorial\obj\Debug\_05.CalcEquationFactorial.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\05. CalcEquationFactorial\obj\Debug\_05.CalcEquationFactorial.pdb

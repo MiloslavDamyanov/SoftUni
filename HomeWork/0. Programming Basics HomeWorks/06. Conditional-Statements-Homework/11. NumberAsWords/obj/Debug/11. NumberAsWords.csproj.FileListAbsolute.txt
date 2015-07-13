@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\11. NumberAsWords\bin\Debug\_11.NumberAsWords.exe.config
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\11. NumberAsWords\bin\Debug\_11.NumberAsWords.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\11. NumberAsWords\bin\Debug\_11.NumberAsWords.pdb
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\11. NumberAsWords\obj\Debug\_11.NumberAsWords.exe
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\11. NumberAsWords\obj\Debug\_11.NumberAsWords.pdb
-D:\code\SoftUni\HomeWorks\06. Conditional-Statements-Homework\11. NumberAsWords\obj\Debug\11. NumberAsWords.csprojResolveAssemblyReference.cache

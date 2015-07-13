@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\MirrorPaint\bin\Debug\HorizontalFlip.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\MirrorPaint\obj\Debug\HorizontalFlip.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\MirrorPaint\obj\Debug\HorizontalFlip.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\MirrorPaint\bin\Debug\HorizontalFlip.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\MirrorPaint\bin\Debug\HorizontalFlip.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\MirrorPaint\obj\Debug\MirrorPaint.csprojResolveAssemblyReference.cache

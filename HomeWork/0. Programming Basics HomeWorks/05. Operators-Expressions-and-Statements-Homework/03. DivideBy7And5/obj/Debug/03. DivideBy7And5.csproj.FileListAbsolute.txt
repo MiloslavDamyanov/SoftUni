@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.exe.config
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\03. DivideBy7And5\obj\Debug\03. DivideBy7And5.csprojResolveAssemblyReference.cache

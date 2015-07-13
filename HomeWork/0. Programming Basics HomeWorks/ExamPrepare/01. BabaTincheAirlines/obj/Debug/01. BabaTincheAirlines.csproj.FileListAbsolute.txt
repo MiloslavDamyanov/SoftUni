@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. BabaTincheAirlines\bin\Debug\_01.BabaTincheAirlines.exe.config
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. BabaTincheAirlines\bin\Debug\_01.BabaTincheAirlines.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. BabaTincheAirlines\bin\Debug\_01.BabaTincheAirlines.pdb
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. BabaTincheAirlines\obj\Debug\01. BabaTincheAirlines.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. BabaTincheAirlines\obj\Debug\_01.BabaTincheAirlines.exe
-D:\code\SoftUni\HomeWorks\ExamPrepare\01. BabaTincheAirlines\obj\Debug\_01.BabaTincheAirlines.pdb

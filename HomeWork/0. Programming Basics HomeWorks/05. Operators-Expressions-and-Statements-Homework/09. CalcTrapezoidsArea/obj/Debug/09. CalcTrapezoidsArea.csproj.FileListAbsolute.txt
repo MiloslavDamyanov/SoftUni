@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\09. CalcTrapezoidsArea\bin\Debug\_09.CalcTrapezoidsArea.exe.config
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\09. CalcTrapezoidsArea\bin\Debug\_09.CalcTrapezoidsArea.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\09. CalcTrapezoidsArea\bin\Debug\_09.CalcTrapezoidsArea.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\09. CalcTrapezoidsArea\obj\Debug\_09.CalcTrapezoidsArea.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\09. CalcTrapezoidsArea\obj\Debug\_09.CalcTrapezoidsArea.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\09. CalcTrapezoidsArea\obj\Debug\09. CalcTrapezoidsArea.csprojResolveAssemblyReference.cache

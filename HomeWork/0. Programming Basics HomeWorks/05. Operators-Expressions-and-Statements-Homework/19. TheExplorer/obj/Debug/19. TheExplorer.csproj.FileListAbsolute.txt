@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\19. TheExplorer\bin\Debug\_19.TheExplorer.exe.config
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\19. TheExplorer\bin\Debug\_19.TheExplorer.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\19. TheExplorer\bin\Debug\_19.TheExplorer.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\19. TheExplorer\obj\Debug\_19.TheExplorer.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\19. TheExplorer\obj\Debug\_19.TheExplorer.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\19. TheExplorer\obj\Debug\19. TheExplorer.csprojResolveAssemblyReference.cache

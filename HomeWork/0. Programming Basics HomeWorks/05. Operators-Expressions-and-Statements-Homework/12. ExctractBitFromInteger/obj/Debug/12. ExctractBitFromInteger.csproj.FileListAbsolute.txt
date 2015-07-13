@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\12. ExctractBitFromInteger\bin\Debug\_12.ExctractBitFromInteger.exe.config
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\12. ExctractBitFromInteger\bin\Debug\_12.ExctractBitFromInteger.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\12. ExctractBitFromInteger\bin\Debug\_12.ExctractBitFromInteger.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\12. ExctractBitFromInteger\obj\Debug\_12.ExctractBitFromInteger.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\12. ExctractBitFromInteger\obj\Debug\_12.ExctractBitFromInteger.pdb

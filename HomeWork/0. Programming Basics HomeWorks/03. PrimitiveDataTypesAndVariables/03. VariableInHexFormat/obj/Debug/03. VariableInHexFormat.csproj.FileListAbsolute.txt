@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\03. VariableInHexFormat\bin\Debug\_03.VariableInHexFormat.exe.config
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\03. VariableInHexFormat\bin\Debug\_03.VariableInHexFormat.exe
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\03. VariableInHexFormat\bin\Debug\_03.VariableInHexFormat.pdb
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\03. VariableInHexFormat\obj\Debug\_03.VariableInHexFormat.exe
-D:\code\SoftUni\HomeWorks\03. PrimitiveDataTypesAndVariables\03. VariableInHexFormat\obj\Debug\_03.VariableInHexFormat.pdb

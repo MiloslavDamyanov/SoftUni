@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\13. CheckBitAtPosition\bin\Debug\_13.CheckBitAtPosition.exe.config
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\13. CheckBitAtPosition\bin\Debug\_13.CheckBitAtPosition.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\13. CheckBitAtPosition\bin\Debug\_13.CheckBitAtPosition.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\13. CheckBitAtPosition\obj\Debug\13. CheckBitAtPosition.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\13. CheckBitAtPosition\obj\Debug\_13.CheckBitAtPosition.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\13. CheckBitAtPosition\obj\Debug\_13.CheckBitAtPosition.pdb

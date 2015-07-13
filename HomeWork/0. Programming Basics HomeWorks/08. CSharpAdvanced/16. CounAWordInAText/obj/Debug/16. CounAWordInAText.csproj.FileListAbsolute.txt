@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\16. CounAWordInAText\bin\Debug\_16.CounAWordInAText.exe.config
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\16. CounAWordInAText\bin\Debug\_16.CounAWordInAText.exe
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\16. CounAWordInAText\bin\Debug\_16.CounAWordInAText.pdb
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\16. CounAWordInAText\obj\Debug\16. CounAWordInAText.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\16. CounAWordInAText\obj\Debug\_16.CounAWordInAText.exe
-D:\code\SoftUni\HomeWorks\08. CSharpAdvanced\16. CounAWordInAText\obj\Debug\_16.CounAWordInAText.pdb

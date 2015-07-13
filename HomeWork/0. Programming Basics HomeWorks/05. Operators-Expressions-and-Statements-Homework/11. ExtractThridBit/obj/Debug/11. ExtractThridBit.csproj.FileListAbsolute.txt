@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\11. ExtractThridBit\bin\Debug\_11.ExtractThridBit.exe.config
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\11. ExtractThridBit\bin\Debug\_11.ExtractThridBit.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\11. ExtractThridBit\bin\Debug\_11.ExtractThridBit.pdb
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\11. ExtractThridBit\obj\Debug\11. ExtractThridBit.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\11. ExtractThridBit\obj\Debug\_11.ExtractThridBit.exe
-D:\code\SoftUni\HomeWorks\05. Operators-Expressions-and-Statements-Homework\11. ExtractThridBit\obj\Debug\_11.ExtractThridBit.pdb

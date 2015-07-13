@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\02. NotDivisibleBy3and7\bin\Debug\_02.NotDivisibleBy3and7.exe.config
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\02. NotDivisibleBy3and7\bin\Debug\_02.NotDivisibleBy3and7.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\02. NotDivisibleBy3and7\bin\Debug\_02.NotDivisibleBy3and7.pdb
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\02. NotDivisibleBy3and7\obj\Debug\_02.NotDivisibleBy3and7.exe
-D:\code\SoftUni\HomeWorks\07. Loops-Homework\02. NotDivisibleBy3and7\obj\Debug\_02.NotDivisibleBy3and7.pdb

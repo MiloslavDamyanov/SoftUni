@@ -1,6 +1,0 @@
-C:\Users\Miloslav\Desktop\Exam\01. FourFactor\bin\Debug\_01.FourFactor.exe.config
-C:\Users\Miloslav\Desktop\Exam\01. FourFactor\bin\Debug\_01.FourFactor.exe
-C:\Users\Miloslav\Desktop\Exam\01. FourFactor\bin\Debug\_01.FourFactor.pdb
-C:\Users\Miloslav\Desktop\Exam\01. FourFactor\obj\Debug\01. FourFactor.csprojResolveAssemblyReference.cache
-C:\Users\Miloslav\Desktop\Exam\01. FourFactor\obj\Debug\_01.FourFactor.exe
-C:\Users\Miloslav\Desktop\Exam\01. FourFactor\obj\Debug\_01.FourFactor.pdb

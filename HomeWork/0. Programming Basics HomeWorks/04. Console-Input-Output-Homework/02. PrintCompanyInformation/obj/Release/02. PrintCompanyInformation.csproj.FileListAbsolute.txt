@@ -1,5 +1,0 @@
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\02. PrintCompanyInformation\bin\Release\_02.PrintCompanyInformation.exe.config
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\02. PrintCompanyInformation\bin\Release\_02.PrintCompanyInformation.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\02. PrintCompanyInformation\bin\Release\_02.PrintCompanyInformation.pdb
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\02. PrintCompanyInformation\obj\Release\_02.PrintCompanyInformation.exe
-D:\code\SoftUni\HomeWorks\04. Console-Input-Output-Homework\02. PrintCompanyInformation\obj\Release\_02.PrintCompanyInformation.pdb

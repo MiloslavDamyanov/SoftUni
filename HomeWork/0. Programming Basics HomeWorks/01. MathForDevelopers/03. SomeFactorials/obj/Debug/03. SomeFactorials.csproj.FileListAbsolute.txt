@@ -1,6 +1,0 @@
-D:\code\SoftUni\HomeWorks\MathForDevelopers\03. SomeFactorials\bin\Debug\_03.SomeFactorials.exe.config
-D:\code\SoftUni\HomeWorks\MathForDevelopers\03. SomeFactorials\bin\Debug\_03.SomeFactorials.exe
-D:\code\SoftUni\HomeWorks\MathForDevelopers\03. SomeFactorials\bin\Debug\_03.SomeFactorials.pdb
-D:\code\SoftUni\HomeWorks\MathForDevelopers\03. SomeFactorials\obj\Debug\03. SomeFactorials.csprojResolveAssemblyReference.cache
-D:\code\SoftUni\HomeWorks\MathForDevelopers\03. SomeFactorials\obj\Debug\_03.SomeFactorials.exe
-D:\code\SoftUni\HomeWorks\MathForDevelopers\03. SomeFactorials\obj\Debug\_03.SomeFactorials.pdb
