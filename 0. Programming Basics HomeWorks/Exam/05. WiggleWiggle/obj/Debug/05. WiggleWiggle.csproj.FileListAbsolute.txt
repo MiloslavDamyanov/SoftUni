@@ -1,0 +1,6 @@
+C:\Users\Miloslav\Desktop\Exam\05. WiggleWiggle\bin\Debug\_05.WiggleWiggle.exe.config
+C:\Users\Miloslav\Desktop\Exam\05. WiggleWiggle\bin\Debug\_05.WiggleWiggle.exe
+C:\Users\Miloslav\Desktop\Exam\05. WiggleWiggle\bin\Debug\_05.WiggleWiggle.pdb
+C:\Users\Miloslav\Desktop\Exam\05. WiggleWiggle\obj\Debug\05. WiggleWiggle.csprojResolveAssemblyReference.cache
+C:\Users\Miloslav\Desktop\Exam\05. WiggleWiggle\obj\Debug\_05.WiggleWiggle.exe
+C:\Users\Miloslav\Desktop\Exam\05. WiggleWiggle\obj\Debug\_05.WiggleWiggle.pdb
