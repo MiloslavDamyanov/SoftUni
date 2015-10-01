@@ -1,0 +1,12 @@
+1. To view the .NET Framework source code for this type, 
+2. see the Reference Source. 
+3. You can browse through the source code online, 
+4. download the reference for offline viewing, 
+5. and step through the sources (including patches and updates) 
+6. during debugging; see instructions.
+7. StreamReader is designed for character 
+8. input in a particular encoding,
+9. whereas the Stream class is designed for 
+10. byte input and output. 
+11. Use StreamReader for reading lines of information 
+12. from a standard text file.
